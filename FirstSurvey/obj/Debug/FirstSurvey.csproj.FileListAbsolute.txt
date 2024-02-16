@@ -1,0 +1,13 @@
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\bin\Debug\FirstSurvey.exe.config
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\bin\Debug\FirstSurvey.exe
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\bin\Debug\FirstSurvey.pdb
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\obj\Debug\FirstSurvey.csproj.AssemblyReference.cache
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\obj\Debug\FirstSurvey.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\obj\Debug\FirstSurvey.csproj.CoreCompileInputs.cache
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\obj\Debug\FirstSurvey.exe
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\obj\Debug\FirstSurvey.pdb
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\obj\Debug\FirstSurvey.csproj.CopyComplete
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\bin\Debug\Dapper.dll
+C:\Users\alexandru.zdru\Desktop\internship\FirstSurvey\FirstSurvey\bin\Debug\Dapper.xml
